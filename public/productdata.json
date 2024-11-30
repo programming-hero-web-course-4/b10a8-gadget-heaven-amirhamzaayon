@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Smartphones",
+    "products": [
+      {
+        "product_id": "SP01",
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/N6kN6y0/iphone-14-pro.jpg",
+        "category": "Smartphones",
+        "price": 1200,
+        "description": "The latest Apple smartphone with advanced features.",
+        "specification": ["6.1-inch display", "A16 Bionic chip", "48MP Camera"],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "SP02",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://i.ibb.co.com/r4pRDc1/Galaxy-S23-Ultra.jpg",
+        "category": "Smartphones",
+        "price": 999,
+        "description": "Samsung's flagship smartphone with premium build.",
+        "specification": [
+          "6.8-inch display",
+          "Snapdragon 8 Gen 2",
+          "200MP Camera"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "SP03",
+        "product_title": "Google Pixel 7",
+        "product_image": "https://i.ibb.co.com/Km2GqBy/Google-Pixel-7.jpg",
+        "category": "Smartphones",
+        "price": 799,
+        "description": "Google's best-in-class software experience.",
+        "specification": ["6.3-inch display", "Tensor G2 chip", "50MP Camera"],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "SP04",
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/kXH2yPb/One-Plus-11.jpg",
+        "category": "Smartphones",
+        "price": 699,
+        "description": "Affordable flagship with stunning design.",
+        "specification": [
+          "6.7-inch display",
+          "Snapdragon 8 Gen 2",
+          "50MP Camera"
+        ],
+        "availability": false,
+        "rating": 4.4
+      },
+      {
+        "product_id": "SP05",
+        "product_title": "Sony Xperia 1 IV",
+        "product_image": "https://i.ibb.co.com/R390n8Y/Sony-Xperia-1-IV.jpg",
+        "category": "Smartphones",
+        "price": 1100,
+        "description": "Premium smartphone for creative professionals.",
+        "specification": [
+          "6.5-inch display",
+          "Snapdragon 8 Gen 1",
+          "12MP Camera"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": "SP06",
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "https://i.ibb.co.com/v1KKSGB/Xiaomi-13-Pro-Ceramic-Black.jpg",
+        "category": "Smartphones",
+        "price": 899,
+        "description": "High-end flagship with a Leica camera.",
+        "specification": [
+          "6.73-inch display",
+          "Snapdragon 8 Gen 2",
+          "50MP Camera"
+        ],
+        "availability": false,
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "category": "Laptops",
+    "products": [
+      {
+        "product_id": "LP01",
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://i.ibb.co.com/YP4f5WR/Mac-Book-Pro-16-inch.jpg",
+        "category": "Laptops",
+        "price": 2500,
+        "description": "Apple's most powerful MacBook with M2 Max.",
+        "specification": ["16-inch Retina display", "M2 Max chip", "32GB RAM"],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "LP02",
+        "product_title": "Dell XPS 13 Plus",
+        "product_image": "https://i.ibb.co.com/BNvkJj9/Dell-XPS-13-Plus.webp",
+        "category": "Laptops",
+        "price": 1800,
+        "description": "Compact and powerful ultrabook.",
+        "specification": ["13.4-inch display", "Intel i7 12th Gen", "16GB RAM"],
+        "availability": true,
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "category": "Smartwatches",
+    "products": [
+      {
+        "product_id": "SW01",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/2yQHdGn/Apple-Watch-Series-8.jpg",
+        "category": "Smartwatches",
+        "price": 399,
+        "description": "Advanced health tracking and fitness features.",
+        "specification": [
+          "GPS + Cellular",
+          "Heart rate monitor",
+          "Water resistant"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "SW02",
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/3ShQLwN/Samsung-Galaxy-Watch-5.jpg",
+        "category": "Smartwatches",
+        "price": 349,
+        "description": "Track your fitness and stay connected.",
+        "specification": ["GPS", "ECG monitor", "Sleep tracking"],
+        "availability": false,
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "category": "Tablets",
+    "products": [
+      {
+        "product_id": "TB01",
+        "product_title": "iPad Pro 12.9-inch",
+        "product_image": "https://i.ibb.co.com/7K98N21/i-Pad-Pro-12-9-inch.jpg",
+        "category": "Tablets",
+        "price": 1200,
+        "description": "Powerful tablet for work and entertainment.",
+        "specification": [
+          "12.9-inch display",
+          "M2 chip",
+          "Apple Pencil support"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "TB02",
+        "product_title": "Samsung Galaxy Tab S8",
+        "product_image": "https://i.ibb.co.com/5RZd3v7/Samsung-Galaxy-Tab-S8.jpg",
+        "category": "Tablets",
+        "price": 900,
+        "description": "High-performance Android tablet.",
+        "specification": [
+          "11-inch display",
+          "Snapdragon 8 Gen 1",
+          "S Pen included"
+        ],
+        "availability": false,
+        "rating": 4.7
+      }
+    ]
+  }
+]
